@@ -1,66 +1,11 @@
-## Foundry
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+BuyAndSell.sol
+Deployer: 0x590f5d6b10899afeC7EABE38225dFcF4A8e9C5BB
+Deployed to: 0x1784c1B887e5874fD8Ddfc9ccF3c44baBbffaF06
+Transaction hash: 0xdc9ff180132e6ca857f59d2513fe08f83dc1ba223897b650dd7688be4a0dc2e0
 
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Staking.sol
+Deployer: 0x590f5d6b10899afeC7EABE38225dFcF4A8e9C5BB
+Deployed to: 0xe20315A98B6316E38a4e375EAF1Fd5AAA2De31D4
+Transaction hash: 0x529b8b2772480141ea456d6f28e6560077db708bfb22a14c3700c86425dca53c
+![alt text](image.png)
